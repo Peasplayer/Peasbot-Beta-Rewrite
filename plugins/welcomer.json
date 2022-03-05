@@ -1,0 +1,40 @@
+{
+  "name": "Welcomer",
+  "description": "Beschreibung",
+  "key": "welcomer",
+  "id": "welcomer_%id%",
+  "settings": [
+    {
+      "name": "Welcome channel",
+      "id": "joinchannel"
+    },
+    {
+      "name": "Welcome message",
+      "id": "joinmessage"
+    },
+    {
+      "name": "Goodbye channel",
+      "id": "leavechannel"
+    },
+    {
+      "name": "Goodbye message",
+      "id": "leavemessage"
+    },
+    {
+      "name": "Welcome private message",
+      "id": "joindm"
+    },
+    {
+      "name": "Welcomer Webhook",
+      "id": "welcomerhook"
+    },
+    {
+      "name": "Welcomer Webhook ID",
+      "id": "welcomerhookid"
+    },
+    {
+      "name": "Welcomer webhook token",
+      "id": "welcomerhooktoken"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "settings": [
+    {
+      "name": "Welcome channel",
+      "key": "joinchannel",
+      "id": "joinchannel_%id%",
+      "type": "channel"
+    },
+    {
+      "name": "Welcome message",
+      "key": "joinmessage",
+      "id": "joinmsg_%id%",
+      "type": "multiString"
+    },
+    {
+      "name": "Welcome private message",
+      "key": "joindm",
+      "id": "joindm_%id%",
+      "type": "multiString"
+    },
+    {
+      "name": "Goodbye channel",
+      "key": "leavechannel",
+      "id": "leavechannel_%id%",
+      "type": "channel"
+    },
+    {
+      "name": "Goodbye message",
+      "key": "leavemessage",
+      "id": "leavemsg_%id%",
+      "type": "multiString"
+    },
+    {
+      "name": "Welcomer Webhook",
+      "key": "welcomerhook",
+      "id": "welhook_%id%",
+      "type": "boolean"
+    },
+    {
+      "name": "Welcomer-Webhook-ID",
+      "key": "welcomerhookid",
+      "id": "welhookid_%id%",
+      "type": "number"
+    },
+    {
+      "name": "Welcomer-Webhook-Token",
+      "key": "welcomerhooktoken",
+      "id": "welhooktoken_%id%",
+      "type": "string"
+    },
+    {
+      "name": "Member scoreboard",
+      "key": "memberscoreboard",
+      "id": "memscorechan_%id%",
+      "type": "number"
+    },
+    {
+      "name": "Ticket category",
+      "key": "ticketcategory",
+      "id": "ticket_category_%id%",
+      "type": "number"
+    },
+    {
+      "name": "Premium role",
+      "key": "premiumrole",
+      "id": "premium_role_%id%",
+      "type": "role"
+    },
+    {
+      "name": "Premium Rank Price",
+      "key": "premiumprice",
+      "id": "premium_price_%id%",
+      "type": "number"
+    },
+    {
+      "name": "Price for a nickname",
+      "key": "nickprice",
+      "id": "nick_price_%id%",
+      "type": "number"
+    },
+    {
+      "name": "Moderator role",
+      "key": "moderatorrole",
+      "id": "moderator_role_%id%",
+      "type": "role"
+    },
+    {
+      "name": "Supporter role",
+      "key": "supporterrole",
+      "id": "supporter_role_%id%",
+      "type": "role"
+    },
+    {
+      "name": "Rules accepted message",
+      "key": "rulemessage",
+      "id": "rulemessage_%id%",
+      "type": "number"
+    },
+    {
+      "name": "Rules accepted role",
+      "key": "rulerole",
+      "id": "rulerole_%id%",
+      "type": "role"
+    },
+    {
+      "name": "Rules accepted message",
+      "key": "ruleacceptedmsg",
+      "id": "ruleaccepted_%id%",
+      "type": "multiString"
+    },
+    {
+      "name": "Rules no longer accepted message",
+      "key": "rulerevokedmsg",
+      "id": "rulerevoked_%id%",
+      "type": "multiString"
+    },
+    {
+      "name": "Prefix",
+      "key": "prefix",
+      "id": "prefix_%id%",
+      "type": "string"
+    },
+    {
+      "name": "Support waiting room",
+      "key": "supportchannel",
+      "id": "supportwaitvc_%id%",
+      "type": "number"
+    },
+    {
+      "name": "Support Log",
+      "key": "supportlog",
+      "id": "supportlog_%id%",
+      "type": "channel"
+    },
+    {
+      "name": "Ticket Message",
+      "key": "ticketmessage",
+      "id": "ticketmsg_%id%",
+      "type": "number"
+    }
+  ]
+}

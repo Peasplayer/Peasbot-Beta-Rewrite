@@ -1,0 +1,32 @@
+{
+  "name": "Support Manager",
+  "description": "Beschreibung",
+  "key": "supportmanager",
+  "id": "supportman_%id%",
+  "settings": [
+    {
+      "name": "Support waiting room",
+      "id": "supportchannel"
+    },
+    {
+      "name": "Support Log",
+      "id": "supportlog"
+    },
+    {
+      "name": "Ticket message",
+      "id": "ticketmessage"
+    },
+    {
+      "name": "Ticket category",
+      "id": "ticketcategory"
+    },
+    {
+      "name": "Supporter role",
+      "id": "supporterrole"
+    },
+    {
+      "name": "Moderator role",
+      "id": "moderatorrole"
+    }
+  ]
+}
